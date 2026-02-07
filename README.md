@@ -1,42 +1,61 @@
-# Mini Portafolio Python – Supply Chain & Operaciones (por Jorge Maximiliano Rivas)
+# Python Portfolio – Supply Chain & Operations
 
-Este mini portafolio demuestra cómo aplico **Python** a problemas típicos de **Supply Chain / Operaciones**:
-- Automatización de reportes (CSV/Excel)
-- KPIs (OTIF, fill rate, lead time)
-- Inventarios (ABC, stock de seguridad, punto de pedido)
-- Análisis exploratorio y generación de salidas listas para compartir
+This repository shows how I apply **Python** to real-world problems in **Supply Chain / Operations**.
 
-> **Requisitos:** Python 3.10+  
-> Instalar dependencias: `pip install -r requirements.txt`
+The focus is not only technical, but also **business-oriented**:
+KPIs, inventory decisions and report automation to support management.
 
-## Estructura
-- `01_kpis_otif/` → cálculo de OTIF y tablero simple en CSV
-- `02_inventory_abc_rop/` → clasificación ABC + punto de pedido (ROP) y stock de seguridad
-- `03_report_automation/` → script para consolidar archivos y generar reporte final
+## Use cases covered
+- 📊 **OTIF KPI (On Time In Full)** by customer and period
+- 📦 **Inventory management**: ABC classification, safety stock and reorder point (ROP)
+- ⚙️ **Report automation**: consolidation of daily files into a weekly Excel report
 
-Cada carpeta incluye:
-- `README.md` (explica el objetivo)
-- `data/` (dataset de ejemplo)
-- `src/` (código listo para correr)
-- `outputs/` (archivos generados)
+All data used is **dummy/demo**, created only to showcase methodology and logic.
 
-## Cómo correr rápido
-1) KPI OTIF
+---
+
+## Projects
+
+### 1️⃣ OTIF – On Time In Full KPI
+- Calculates **On Time**, **In Full** and **OTIF %**
+- Aggregated by customer and month
+- Typical KPI used in industrial and FMCG environments
+
+📄 Output:  
+`01_kpis_otif/outputs/otif_summary.csv`
+
+![OTIF KPI](assets/01_otif.png)
+
+---
+
+### 2️⃣ Inventory – ABC + Safety Stock + Reorder Point
+- ABC classification based on annual consumption value
+- Safety stock calculation using demand variability
+- Reorder Point (ROP) based on lead time demand
+
+📄 Output:  
+`02_inventory_abc_rop/outputs/abc_rop.csv`
+
+![ABC ROP](assets/02_abc_rop.png)
+
+---
+
+### 3️⃣ Report Automation – Weekly Stock Report
+- Consolidates daily stock snapshots
+- Generates a weekly Excel report ready for sharing
+- Reduces manual work and reporting time
+
+📄 Output:  
+`03_report_automation/outputs/weekly_stock_report.xlsx`
+
+![Weekly Stock](assets/03_weekly_stock.png)
+
+---
+
+## How to run locally
+
 ```bash
+pip install -r requirements.txt
 python 01_kpis_otif/src/run_otif.py
-```
-
-2) Inventarios ABC + ROP
-```bash
 python 02_inventory_abc_rop/src/run_inventory.py
-```
-
-3) Automatización de reporte
-```bash
 python 03_report_automation/src/run_report.py
-```
-
-## Notas
-- Los datos son **ficticios** (demo).
-- El objetivo es mostrar **criterio de negocio** + **capacidad técnica**.
-# Mini-Portafolio-Python
