@@ -24,7 +24,7 @@ All data used is **dummy/demo**, created only to showcase methodology and logic.
 📄 Output:  
 `01_kpis_otif/outputs/otif_summary.csv`
 
-![OTIF KPI](assets/01_otif_real_png)
+![OTIF KPI](assets/01_otif_real.png)
 
 ---
 
