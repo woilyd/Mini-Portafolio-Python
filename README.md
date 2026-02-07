@@ -39,3 +39,4 @@ python 03_report_automation/src/run_report.py
 ## Notas
 - Los datos son **ficticios** (demo).
 - El objetivo es mostrar **criterio de negocio** + **capacidad técnica**.
+# Mini-Portafolio-Python
